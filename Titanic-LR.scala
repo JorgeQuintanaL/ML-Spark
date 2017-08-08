@@ -1,3 +1,7 @@
+/*
+Training a Logistic Regression using Kaggle's Titanic data set. I have use a lot of lines from @joaosal, thanks buddy!
+*/
+
 import org.apache.spark.sql._
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.SparkSession
